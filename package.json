@@ -1,0 +1,41 @@
+{
+    "name": "angular2-swiper",
+    "version": "0.8.1",
+    "description": "Angular 2 Swiper component that wraps http://idangero.us/swiper",
+    "main": "dist/index.js",
+    "typings": "dist/index.d.ts",
+    "scripts": {
+      "build": "ngc -p ."
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/ksachdeva/angular2-swiper.git"
+    },
+    "dependencies": {
+      "swiper": "^3.4.2"
+    },
+    "devDependencies": {
+      "@angular/animations": "^4.1.0",
+      "@angular/common": "^4.1.0",
+      "@angular/compiler": "^4.1.0",
+      "@angular/compiler-cli": "^4.1.0",
+      "@angular/core": "^4.1.0",
+      "@angular/platform-browser": "^4.1.0",
+      "@angular/platform-server": "^4.1.0",
+      "reflect-metadata": "^0.1.10",
+      "rxjs": "^5.3.1",
+      "typescript": "^2.3.2",
+      "zone.js": "^0.8.9"
+    },
+    "keywords": [
+        "angular2",
+        "swiper",
+        "component"
+    ],
+    "author": "Kapil Sachdeva",
+    "license": "MIT",
+    "bugs": {
+        "url": "https://github.com/ksachdeva/angular2-swiper/issues"
+    },
+    "homepage": "https://github.com/ksachdeva/angular2-swiper#readme"
+}
